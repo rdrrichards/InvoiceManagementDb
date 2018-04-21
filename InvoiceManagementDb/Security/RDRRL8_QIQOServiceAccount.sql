@@ -1,3 +1,0 @@
-﻿CREATE USER [RDRRL8\QIQOServiceAccount] FOR LOGIN [RDRRL8\QIQOServiceAccount]
-    WITH DEFAULT_SCHEMA = [RDRRL8\QIQOServiceAccount];
-
