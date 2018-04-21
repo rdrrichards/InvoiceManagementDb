@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [RDRRL8\QIQOServiceAccount]
+    AUTHORIZATION [RDRRL8\QIQOServiceAccount];
+
