@@ -93,7 +93,6 @@
     <Build Include="dbo\Tables\product_type.sql" />
     <Build Include="Security\businessuser.sql" />
     <Build Include="Security\businessuser_1.sql" />
-    <Build Include="Security\RDRRL8_QIQOServiceAccount.sql" />
     <Build Include="Security\RoleMemberships.sql" />
     <Build Include="dbo\Stored Procedures\usp_invoice_get.sql" />
     <Build Include="dbo\Stored Procedures\usp_invoice_get_c.sql" />
@@ -210,7 +209,6 @@
     <Build Include="dbo\Stored Procedures\usp_invoice_del.sql" />
     <Build Include="dbo\Stored Procedures\usp_invoice_del_c.sql" />
     <Build Include="dbo\Stored Procedures\usp_invoice_find.sql" />
-    <Build Include="Security\RDRRL8_QIQOServiceAccount_1.sql" />
     <Build Include="dbo\Sequences\entity_entity_key_seq.sql" />
     <Build Include="dbo\Sequences\entity_role_key_seq.sql" />
     <Build Include="dbo\Sequences\account_key_seq.sql" />
